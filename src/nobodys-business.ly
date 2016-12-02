@@ -38,6 +38,7 @@
     
     \repeat volta 2 {
       \mark \default
+      d4 d4 d4 d4
       e8 d8 ~ d8 b8 ~ b8 a8 g4
       c4 c4 e,4 e4
       a8 b8 ~ b8 c8 ~ c8 b8 a4
