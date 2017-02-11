@@ -13,7 +13,7 @@
 
 \header {
   title = "Nobody's Business"
-  subtitle = "Arrangement by Matt Bassano"
+  subtitle = "Transcribed by Matt Bassano"
   composer = ""
   meter = ""
 }
