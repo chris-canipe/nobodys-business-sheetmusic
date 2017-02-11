@@ -13,10 +13,12 @@
 
 \header {
   title = "Nobody's Business"
-  subtitle = "Transcribed by Matt Bassano"
-  composer = ""
-  meter = ""
+  instrument = "5-String Banjo"
+  arranger = \markup { \teeny "Transcribed by Matt Bassano" }
+  tagline = \markup { \teeny "https://www.youtube.com/watch?v=xNJTYoaM-ao" }
 }
+
+\markup { \vspace #1 }
 
 \new GrandStaff
 <<
