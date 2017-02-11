@@ -20,6 +20,20 @@
 
 \new GrandStaff
 <<
+  
+  \new ChordNames {
+    \set chordChanges = ##t
+    \chordmode {
+      r1 d1 g1 g1
+      g1 g1 c1 c1
+      d1 d1 g1 g1
+      d1 g1 g1 g1
+      g1 c1 c1 d1
+      d1 g1 g1 d1
+      d1 g1 g1
+    }
+  }
+  
   \relative g'
   \new Staff {
 
